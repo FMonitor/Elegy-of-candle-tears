@@ -1,0 +1,1923 @@
+
+body {
+    margin: 0;
+    padding: 0
+}
+button {
+    margin: 0;
+    padding: 0
+}
+
+button {
+    background: none;
+    border: 0;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+    overflow: visible;
+    vertical-align: inherit
+}
+
+button:disabled {
+    cursor: default
+}
+
+
+.justify-content-spacebetween {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+}
+.visuallyhidden {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(0px 0px 99.9% 99.9%);
+    clip-path: inset(0px 0px 99.9% 99.9%);
+    overflow: hidden;
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    border: 0
+
+}
+
+.main [data-module-template="mc-gallery"] .unit-image-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%
+}
+
+.main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+    width: 980px;
+    height: 523px;
+    background-size: 980px 523px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_large_2x.jpg")
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        width: 1250px;
+        height: 667px;
+        background-size: 1250px 667px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_xlarge.jpg")
+    }
+}
+
+@media only screen and (min-width: 1441px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-width: 1441px) and (min-resolution: 1.5dppx),
+only screen and (min-width: 1441px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_xlarge_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        width: 689px;
+        height: 378px;
+        background-size: 689px 378px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        width: 274px;
+        height: 495px;
+        background-size: 274px 495px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-fnb {
+        background-image: url("/v/home/bo/images/mc-gallery/fnb__brvfy48gzsz6_small_2x.jpg")
+    }
+}
+
+.main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+    width: 119px;
+    height: 46px;
+    background-size: 119px 46px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+        width: 92px;
+        height: 36px;
+        background-size: 92px 36px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+        width: 69px;
+        height: 27px;
+        background-size: 69px 27px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_small_2x.png")
+    }
+}
+
+.main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+    width: 119px;
+    height: 46px;
+    background-size: 119px 46px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+        width: 92px;
+        height: 36px;
+        background-size: 92px 36px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+        width: 69px;
+        height: 27px;
+        background-size: 69px 27px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .unit-image-wrapper .unit-image.unit-image-logo-hero-light {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_small_2x.png")
+    }
+}
+
+.main [data-module-template="mc-gallery"] .dotnav {
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.main [data-module-template="mc-gallery"] .dotnav ul {
+    margin: 0;
+    list-style: none;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.main [data-module-template="mc-gallery"] .dotnav li {
+    list-style: none;
+    margin: 0 7px;
+    width: 8px;
+    height: 8px;
+    position: relative
+}
+
+.main [data-module-template="mc-gallery"] .dotnav-item {
+    top: 0;
+    left: 0;
+    width: 8px;
+    height: 8px;
+    outline: none;
+    position: absolute;
+    border-radius: 50%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0
+}
+
+.main [data-module-template="mc-gallery"] .dotnav-item.current {
+    cursor: default
+}
+
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item {
+    background-color: rgba(0, 0, 0, 0.42);
+    -webkit-transition: background-color 100ms linear;
+    transition: background-color 100ms linear
+}
+
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item:hover {
+    background-color: rgba(0, 0, 0, 0.54)
+}
+
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item:focus {
+    -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    outline: none
+}
+
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.main [data-module-template="mc-gallery"] .dotnav .dotnav-item.current {
+    background-color: rgba(0, 0, 0, 0.8)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav,
+.main [data-module-template="mc-gallery"] .paddlenav ul {
+    margin: 0;
+    list-style: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow {
+    display: block;
+    font-style: normal;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    -webkit-transition: 100ms background-color linear, 100ms color linear, 100ms opacity linear;
+    transition: 100ms background-color linear, 100ms color linear, 100ms opacity linear
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous {
+    top: 50%
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down {
+    left: 50%
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:hover {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:disabled,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow.disabled {
+    cursor: default;
+    opacity: 0
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:disabled:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:disabled:focus[data-focus-method="touch"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow.disabled:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow.disabled:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    opacity: 0
+}
+
+html.touch .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:disabled,
+html.touch .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow.disabled {
+    opacity: 0
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow {
+    font-weight: 300;
+    width: 5.29412rem;
+    height: 5.29412rem;
+    border-radius: 5.29412rem;
+    font-size: 53px;
+    line-height: 5.29412rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous {
+    margin-top: -2.64706rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down {
+    margin-left: -2.64706rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+    margin-right: -.056em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+    margin-left: -.056em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.56)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus {
+    -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    outline: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:active {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select):hover,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select):hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select):active,
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select):active {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next {
+    right: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous {
+    left: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up {
+    top: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down {
+    bottom: 18px
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow {
+        font-weight: 300;
+        width: 3.05882rem;
+        height: 3.05882rem;
+        border-radius: 3.05882rem;
+        font-size: 53px;
+        line-height: 3.05882rem
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous {
+        margin-top: -1.52941rem
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down {
+        margin-left: -1.52941rem
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+        font-family: "SF Pro Icons";
+        color: inherit;
+        display: inline-block;
+        font-style: normal;
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 1;
+        text-decoration: underline;
+        position: relative;
+        z-index: 1;
+        alt: ''
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+        text-decoration: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before {
+        display: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+        content: ""
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-next::after {
+        margin-right: -.1em
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+        font-family: "SF Pro Icons";
+        color: inherit;
+        display: inline-block;
+        font-style: normal;
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 1;
+        text-decoration: underline;
+        position: relative;
+        z-index: 1;
+        alt: ''
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+        text-decoration: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before {
+        display: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+        content: ""
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-previous::after {
+        margin-left: -.1em
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+        font-family: "SF Pro Icons";
+        color: inherit;
+        display: inline-block;
+        font-style: normal;
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 1;
+        text-decoration: underline;
+        position: relative;
+        z-index: 1;
+        alt: ''
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+        text-decoration: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before {
+        display: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-up::after {
+        content: ""
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+        font-family: "SF Pro Icons";
+        color: inherit;
+        display: inline-block;
+        font-style: normal;
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 1;
+        text-decoration: underline;
+        position: relative;
+        z-index: 1;
+        alt: ''
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+        text-decoration: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before {
+        display: none
+    }
+
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::before,
+    .main [data-module-template="mc-gallery"] .paddlenav .paddlenav-arrow-down::after {
+        content: ""
+    }
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow {
+    font-weight: 300;
+    width: 3.05882rem;
+    height: 3.05882rem;
+    border-radius: 3.05882rem;
+    font-size: 53px;
+    line-height: 3.05882rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous {
+    margin-top: -1.52941rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down {
+    margin-left: -1.52941rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-next::after {
+    margin-right: -.1em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-previous::after {
+    margin-left: -.1em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-up::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-compact .paddlenav-arrow-down::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow {
+    font-weight: 700;
+    width: 2.11765rem;
+    height: 2.11765rem;
+    border-radius: 2.11765rem;
+    font-size: 18px;
+    line-height: 2.11765rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous {
+    margin-top: -1.05882rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down {
+    margin-left: -1.05882rem
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-next::after {
+    margin-right: -.1em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-previous::after {
+    margin-left: -.1em
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-up::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::after {
+    font-family: "SF Pro Icons";
+    color: inherit;
+    display: inline-block;
+    font-style: normal;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: 1;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+    alt: ''
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::after {
+    text-decoration: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::before {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::before,
+.main [data-module-template="mc-gallery"] .paddlenav-tiny .paddlenav-arrow-down::after {
+    content: ""
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow {
+    background-color: rgba(210, 210, 215, 0.64);
+    color: rgba(0, 0, 0, 0.56)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:hover {
+    background-color: rgba(223, 223, 227, 0.6976);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus {
+    -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #0071E3;
+    outline: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:active {
+    background-color: rgba(193, 193, 198, 0.6544);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select):hover,
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select):hover {
+    background-color: rgba(223, 223, 227, 0.6976);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select):active,
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow:focus[data-focus-method="touch"]:not(input):not(textarea):not(select):active {
+    background-color: rgba(193, 193, 198, 0.6544);
+    color: rgba(0, 0, 0, 0.64)
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow-next {
+    right: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow-previous {
+    left: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow-up {
+    top: 18px
+}
+
+.main [data-module-template="mc-gallery"] .paddlenav-framed .paddlenav-arrow-down {
+    bottom: 18px
+}
+
+.main [data-module-template="mc-gallery"] .with-paddlenav {
+    position: relative
+}
+
+html.no-touch .main [data-module-template="mc-gallery"] .with-paddlenav-onhover .paddlenav-arrow {
+    opacity: 0;
+    -webkit-transition: 100ms background-color linear, 100ms color linear, 100ms opacity linear;
+    transition: 100ms background-color linear, 100ms color linear, 100ms opacity linear
+}
+
+html.no-touch .main [data-module-template="mc-gallery"] .with-paddlenav-onhover .paddlenav-arrow:focus {
+    opacity: 1
+}
+
+html.no-touch .main [data-module-template="mc-gallery"] .with-paddlenav-onhover:hover .paddlenav-arrow {
+    opacity: 1
+}
+
+html.no-touch .main [data-module-template="mc-gallery"] .with-paddlenav-onhover .paddlenav-arrow:disabled,
+html.no-touch .main [data-module-template="mc-gallery"] .with-paddlenav-onhover .paddlenav-arrow.disabled {
+    opacity: 0
+}
+
+.main [data-module-template="mc-gallery"] .with-paddlenav-visuallyhidden .paddlenav-arrow {
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(0px 0px 99.9% 99.9%);
+    clip-path: inset(0px 0px 99.9% 99.9%)
+}
+
+.main [data-module-template="mc-gallery"] .with-paddlenav-visuallyhidden .paddlenav-arrow:focus,
+.main [data-module-template="mc-gallery"] .with-paddlenav-visuallyhidden .paddlenav-arrow:hover {
+    clip: auto;
+    -webkit-clip-path: none;
+    clip-path: none
+}
+
+.main [data-module-template="mc-gallery"] #viewport-emitter {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    z-index: -1
+}
+
+.main [data-module-template="mc-gallery"] #viewport-emitter::before {
+    content: "large"
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] #viewport-emitter::before {
+        content: "medium"
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] #viewport-emitter::before {
+        content: "small"
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] #viewport-emitter::before {
+        content: "xlarge"
+    }
+}
+
+.main [data-module-template="mc-gallery"] {
+    position: relative;
+    border-bottom: 0
+}
+
+html.no-js .main [data-module-template="mc-gallery"],
+html.api-failure .main [data-module-template="mc-gallery"],
+html.no-js .main [data-module-template="mc-gallery"],
+html.api-failure .main [data-module-template="mc-gallery"] {
+    display: none
+}
+
+.main [data-module-template="mc-gallery"] .gallery {
+    overflow: hidden;
+    position: relative;
+    height: 561.13167px;
+    background: #fff;
+    width: 100%;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column
+}
+
+@media (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery {
+        height: 705.25979px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery {
+        height: 405.79359px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery {
+        height: 533px
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .item-container {
+    position: relative;
+    width: 995px;
+    margin: 0 auto;
+    will-change: transform
+}
+
+@media (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container {
+        width: 1265px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container {
+        width: 704px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container {
+        width: 289px
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item {
+    --abs: Max(var(--progress), var(--progress) * -1);
+    --progress-0-1: clamp(0, var(--abs), 1);
+    --progress-1-1: clamp(-1, var(--progress), 1);
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    height: 523.13167px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    will-change: opacity;
+    z-index: 0 !important
+}
+
+@media (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item {
+        height: 667.25979px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item {
+        height: 367.79359px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item {
+        height: 495px
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark {
+    background: #fff
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+    background-size: 119px 46px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+        background-size: 92px 36px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+        background-size: 69px 27px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-dark .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero_light__d7t8cya4x26a_small_2x.png")
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+    background-size: 119px 46px;
+    background-repeat: no-repeat;
+    background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_large.png")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 1.5dppx),
+(-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_large_2x.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+        background-size: 92px 36px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_medium.png")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_medium_2x.png")
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+        background-size: 69px 27px;
+        background-repeat: no-repeat;
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_small.png")
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .main [data-module-template="mc-gallery"] .gallery .gallery-item.theme-light .info-top .amc-icon {
+        background-image: url("/v/home/bo/images/mc-gallery/logo_hero__trsrpeu6koqy_small_2x.png")
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item.current {
+    z-index: 1 !important
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item.current .info-bottom {
+    opacity: 0.999;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s
+}
+
+.main [data-module-template="mc-gallery"] .gallery .gallery-item .info-top .amc-icon.hide-icon {
+    background-image: none
+}
+
+.main [data-module-template="mc-gallery"] .gallery .inner {
+    position: absolute;
+    top: 0;
+    left: 7.5px;
+    width: calc(100% - 15px);
+    height: 100%;
+    background: -webkit-radial-gradient(left bottom, 100% 33%, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0));
+    background: radial-gradient(100% 33% at left bottom, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0))
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .inner {
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.7)), -webkit-linear-gradient(top, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0) 200px);
+        background: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.7)), linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0) 200px)
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom {
+    opacity: 0.001;
+    -webkit-transform: translateY(20px);
+    transform: translateY(20px);
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s;
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    bottom: 38px;
+    left: 47px;
+    right: 175px
+}
+
+@media (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom {
+        bottom: 56px;
+        left: 70px;
+        right: 210px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom {
+        bottom: 24px;
+        left: 30px;
+        right: 128px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+        left: 0;
+        width: 100%;
+        right: 0;
+        bottom: 30px
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button {
+    border-radius: 980px;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    border-style: solid;
+    border-width: 1px;
+    min-width: 28px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    --sk-button-margin-horizontal: 18px;
+    --sk-button-margin-vertical: 18px;
+    border-color: transparent;
+    -ms-flex-negative: 0;
+    flex-shrink: 0
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ar) {
+    letter-spacing: 0em;
+    font-family: "SF Pro AR", "SF Pro AR Text", "SF Pro Text", "SF Pro Gulf", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ja) {
+    letter-spacing: 0em;
+    font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ko) {
+    letter-spacing: 0em;
+    font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh) {
+    letter-spacing: 0em
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button {
+        --sk-button-margin-horizontal: 14px;
+        --sk-button-margin-vertical: 14px;
+        font-size: 14px;
+        line-height: 1.42859;
+        font-weight: 400;
+        letter-spacing: -.016em;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        min-width: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 7px;
+        padding-bottom: 7px
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ar) {
+        line-height: 1.57143;
+        letter-spacing: 0em;
+        font-family: "SF Pro AR", "SF Pro AR Text", "SF Pro Text", "SF Pro Gulf", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ja) {
+        letter-spacing: 0em;
+        font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(ko) {
+        line-height: 1.57143;
+        letter-spacing: 0em;
+        font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh) {
+        line-height: 1.5;
+        letter-spacing: 0em
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(th) {
+        line-height: 1.35718;
+        letter-spacing: 0em;
+        font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom .custom-button:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p {
+    font-size: 20px;
+    line-height: 1.1;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    margin-left: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.6)
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ar) {
+    font-family: "SF Pro AR", "SF Pro AR Display", "SF Pro Display", "SF Pro Gulf", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ja) {
+    font-family: "SF Pro JP", "SF Pro Display", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ko) {
+    font-family: "SF Pro KR", "SF Pro Display", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(th) {
+    font-family: "SF Pro TH", "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-CN) {
+    font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-HK) {
+    font-family: "SF Pro HK", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-MO) {
+    font-family: "SF Pro HK", "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-TW) {
+    font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p {
+        font-size: 17px;
+        line-height: 1.23536;
+        font-weight: 400;
+        letter-spacing: -.022em;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ar) {
+        letter-spacing: 0em;
+        font-family: "SF Pro AR", "SF Pro AR Text", "SF Pro Text", "SF Pro Gulf", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ja) {
+        letter-spacing: 0em;
+        font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ko) {
+        line-height: 1.35296;
+        letter-spacing: 0em;
+        font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh) {
+        line-height: 1.35296;
+        letter-spacing: 0em
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(th) {
+        line-height: 1.35296;
+        letter-spacing: 0em;
+        font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p {
+        font-size: 15px;
+        line-height: 1.33338;
+        font-weight: 400;
+        letter-spacing: 0em;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ar) {
+        font-family: "SF Pro AR", "SF Pro AR Text", "SF Pro Text", "SF Pro Gulf", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ja) {
+        font-family: "SF Pro JP", "SF Pro Text", "SF Pro Icons", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(ko) {
+        font-family: "SF Pro KR", "SF Pro Text", "SF Pro Icons", "Apple Gothic", "HY Gulim", "MalgunGothic", "HY Dotum", "Lexi Gulim", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(th) {
+        font-family: "SF Pro TH", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-CN) {
+        font-family: "SF Pro SC", "SF Pro Text", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-HK) {
+        font-family: "SF Pro HK", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-MO) {
+        font-family: "SF Pro HK", "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p:lang(zh-TW) {
+        font-family: "SF Pro TC", "SF Pro Text", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-bottom p span {
+    font-weight: 700
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p span {
+        display: block
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p span.m-dot {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-bottom p {
+        margin: 0 auto 12px;
+        text-align: center;
+        padding: 0 15px;
+        white-space: pre-wrap;
+        overflow: visible
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: none
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .info-top {
+        display: block
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-top .logo {
+    width: 220px;
+    height: 54px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top center;
+    margin: 0 auto
+}
+
+.main [data-module-template="mc-gallery"] .gallery .info-top .amc-icon {
+    width: 68px;
+    height: 33px;
+    margin: 20px auto 5px;
+    background-size: contain;
+    top: 20px
+}
+
+.main [data-module-template="mc-gallery"] .gallery .item-container a {
+    opacity: calc((var(--progress-0-1) * -0.7) + .99);
+    background-size: cover;
+    background-position: center;
+    width: 980px;
+    margin: 0 auto;
+    height: 100%;
+    will-change: opacity
+}
+
+@media (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container a {
+        width: 1250px
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container a {
+        width: 689px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .item-container a {
+        width: 274px;
+        background-position: top center
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav ul {
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    pointer-events: none
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav li {
+    position: absolute;
+    bottom: 38px;
+    top: 0
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav li.next {
+    right: 0;
+    left: calc(50% + 505px)
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.next {
+        left: calc(50% + 640px)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.next {
+        left: calc(50% + 359.5px)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.next {
+        left: calc(50% + 152px)
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav li.previous {
+    left: 0;
+    right: calc(50% + 505px)
+}
+
+@media only screen and (min-width: 1441px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.previous {
+        right: calc(50% + 640px)
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.previous {
+        right: calc(50% + 359.5px)
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav li.previous {
+        right: calc(50% + 152px)
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav button {
+    width: auto;
+    height: auto;
+    border-radius: 0;
+    background: none !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 0;
+    pointer-events: all
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav button:focus,
+.main [data-module-template="mc-gallery"] .gallery .paddlenav button:active {
+    background: none
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav button:after {
+    display: none
+}
+
+@media only screen and (max-width: 734px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav button:after {
+        display: block
+    }
+}
+
+@media (max-width: 320px) {
+    .main [data-module-template="mc-gallery"] .gallery .paddlenav button:after {
+        display: none
+    }
+}
+
+.main [data-module-template="mc-gallery"] .gallery .paddlenav button:hover {
+    background: none
+}
+
+.main [data-module-template="mc-gallery"] .gallery .tablist-wrapper {
+    position: absolute;
+    bottom: 7px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%)
+}
+
+.main [data-module-template="mc-gallery"] .gallery .mc-gallery-play-pause {
+    position: absolute;
+    bottom: 7px;
+    right: 16px;
+    margin: unset
+}
+
+.gallery-controls-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end
+}
+
+.mc-gallery-play-pause,
+.fam-gallery-play-pause {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    margin: 16px;
+    border-radius: 50%;
+    background-color: #d2d2d7;
+    cursor: pointer
+}
+
+.mc-gallery-play-pause.paused:after,
+.mc-gallery-play-pause.playing:after,
+.fam-gallery-play-pause.paused:after,
+.fam-gallery-play-pause.playing:after {
+    content: '';
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-size: 12px;
+    background-color: #000;
+    pointer-events: none
+}
+
+.mc-gallery-play-pause.paused:after,
+.fam-gallery-play-pause.paused:after {
+    -webkit-mask: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGc+PHBhdGggZD0iTTUsMTUuMjVWNC43N0ExLjQ0LDEuNDQsMCwwLDEsNi40NCwzLjE1YTEuODYsMS44NiwwLDAsMSwxLjExLjMxbDguNTMsNWMuNzYuNDQsMS4xNy44LDEuMTcsMS41MXMtLjQxLDEuMDctMS4xNywxLjUxbC04LjUzLDVhMS44NiwxLjg2LDAsMCwxLTEuMTEuMzFBMS40MiwxLjQyLDAsMCwxLDUsMTUuMjVaIi8+PC9nPjwvc3ZnPg==");
+    mask: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGc+PHBhdGggZD0iTTUsMTUuMjVWNC43N0ExLjQ0LDEuNDQsMCwwLDEsNi40NCwzLjE1YTEuODYsMS44NiwwLDAsMSwxLjExLjMxbDguNTMsNWMuNzYuNDQsMS4xNy44LDEuMTcsMS41MXMtLjQxLDEuMDctMS4xNywxLjUxbC04LjUzLDVhMS44NiwxLjg2LDAsMCwxLTEuMTEuMzFBMS40MiwxLjQyLDAsMCwxLDUsMTUuMjVaIi8+PC9nPjwvc3ZnPg==")
+}
+
+.mc-gallery-play-pause.playing:after,
+.fam-gallery-play-pause.playing:after {
+    -webkit-mask: url("data:image/svg+xml;base64,PHN2ZyBpZD0iRXhwb3J0YWJsZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMWQxZDFmO308L3N0eWxlPjwvZGVmcz48ZyBpZD0icGF1c2UiPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMy43NSIgeT0iMyIgd2lkdGg9IjQuNSIgaGVpZ2h0PSIxNCIgcng9IjEuNSIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTEuNzUiIHk9IjMiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTQiIHJ4PSIxLjUiLz48L2c+PC9zdmc+");
+    mask: url("data:image/svg+xml;base64,PHN2ZyBpZD0iRXhwb3J0YWJsZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMWQxZDFmO308L3N0eWxlPjwvZGVmcz48ZyBpZD0icGF1c2UiPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMy43NSIgeT0iMyIgd2lkdGg9IjQuNSIgaGVpZ2h0PSIxNCIgcng9IjEuNSIvPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTEuNzUiIHk9IjMiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTQiIHJ4PSIxLjUiLz48L2c+PC9zdmc+")
+}
+
+.mc-gallery-play-pause:hover,
+.fam-gallery-play-pause:hover {
+    background-color: #c8c8ce
+}
+
+[data-module-template] [data-unit-id] [data-inline-media-enhanced] .unit-image-wrapper,
+[data-module-template] [data-unit-id] [data-inline-media-hero] .unit-image-wrapper,
+[data-module-template] [data-unit-id] [data-inline-media-promo] .unit-image-wrapper {
+    z-index: 3;
+    pointer-events: none
+}
+
