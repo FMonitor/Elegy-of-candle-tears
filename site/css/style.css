@@ -168,6 +168,7 @@ h3,
 
 h4,
 .heading-4 {
+	color : #cb2027;
 	font-size: 21px;
 	line-height: 1.71429;
 }
@@ -1220,7 +1221,7 @@ a[href*='tel'], a[href*='mailto'] {
 	left: 0;
 	top: 0;
 	width: 25px;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 1;
 	text-indent: 0;
 	font-family: "FontAwesome";
@@ -2533,7 +2534,7 @@ hr {
 	display: inline-block;
 	min-width: 200px;
 	padding: 17px 33px 15px;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 1.34;
 	border: 2px solid;
 	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -2636,8 +2637,8 @@ hr {
 }
 
 .button-primary.button-pipaluk:hover, .button-primary.button-pipaluk:active {
-	color: #151515;
-	background: transparent;
+	color: #b00000;
+	background: #f0f0f0;
 }
 
 .button-primary.button-wapasha, .button-primary.button-wapasha:focus {
@@ -6310,7 +6311,7 @@ textarea.textarea-lg {
 	padding: 10px 15px;
 	min-width: 230px;
 	transform: translate3d(-50%, 0, 0);
-	background: #ffffff;
+	background: #151515;
 	pointer-events: none;
 	transition: all .3s ease;
 }
@@ -6335,7 +6336,7 @@ textarea.textarea-lg {
 }
 
 .thumbnail-classic-title-wrap .icon, .thumbnail-classic-title-wrap .icon:focus, .thumbnail-classic-title-wrap .icon:active {
-	color: #151515;
+	color: #f0f0f0;
 }
 
 .thumbnail-classic-title-wrap .icon:hover {
@@ -9904,7 +9905,7 @@ h2.title-modern > span {
 	overflow: hidden;
 	left: 0;
 	bottom: 27px;
-	width: 80%;
+	width: 50%;
 	min-width: 300px;
 	margin-left: -25px;
 	padding: 15px 20px 15px 50px;
@@ -9971,13 +9972,13 @@ h2.title-modern > span {
 @media (min-width: 1200px) {
 	.team-classic-lg .team-classic-caption {
 		bottom: 10%;
-		padding: 15px 6% 15px 18%;
+		padding: 10px 6% 10px 18%;
 	}
 }
 
 @media (min-width: 1200px) and (max-width: 1399px) {
 	.team-classic-lg .team-classic-caption {
-		min-width: 260px;
+		min-width: 150px;
 	}
 }
 
@@ -11334,7 +11335,7 @@ html [class*='section-'].section-top-0 {
 .context-dark h1,
 .bg-gray-dark h1,
 .bg-primary h1, .context-dark h2, .bg-gray-dark h2, .bg-primary h2, .context-dark h3, .bg-gray-dark h3, .bg-primary h3, .context-dark h4, .bg-gray-dark h4, .bg-primary h4, .context-dark h5, .bg-gray-dark h5, .bg-primary h5, .context-dark h6, .bg-gray-dark h6, .bg-primary h6, .context-dark [class*='heading-'], .bg-gray-dark [class*='heading-'], .bg-primary [class*='heading-'] {
-	color: #ffffff;
+	color: #b00000;
 }
 
 .context-dark .form-wrap.has-error .form-input, .bg-gray-dark .form-wrap.has-error .form-input, .bg-primary .form-wrap.has-error .form-input {
