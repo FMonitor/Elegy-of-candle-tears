@@ -14,8 +14,8 @@
   <!-- Stylesheets-->
   <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
-  <link rel="stylesheet" type="text/css"
-    href="//fonts.googleapis.com/css?family=Poppins:400,500,600%7CTeko:300,400,500%7CMaven+Pro:500">
+  <!-- <link rel="stylesheet" type="text/css"
+    href="//fonts.googleapis.com/css?family=Poppins:400,500,600%7CTeko:300,400,500%7CMaven+Pro:500"> -->
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/style.css">
@@ -712,8 +712,9 @@
                 aria-hidden="true">×</span></button>
           </div>
           <div class="modal-body">
-            <form class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
-              data-form-type="contact-modal" method="post" action="bat/rd-mailform.php">
+            
+            <form id="contactForm" class="rd-form rd-form-variant-2 rd-mailform" data-form-output="form-output-global"
+              data-form-type="contact-modal" method="post" action="/api/post">
               <div class="row row-14 gutters-14">
                 <div class="col-12">
                   <div class="form-wrap">
@@ -755,6 +756,7 @@
   <div class="snackbars" id="form-output-global"></div>
   <!-- Javascript-->
   <script src="js/core.min.js"></script>
+  <script src="js/sendmsg.js"></script>
   <script src="js/script.js"></script>
   <script src="js/main.built.js"></script>
 
