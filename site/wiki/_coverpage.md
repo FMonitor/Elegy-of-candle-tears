@@ -14,7 +14,7 @@
 你不可能拯救所有人。 -->
 
 [官方网站](https://cn-hb-lt-tmp3.natfrp.cloud:56560/Elegy-of-candle-tears/site/)
-[进入百科](#docsify "id=enter-wiki")
+[进入百科](#烛泪挽歌 "id=enter-wiki")
 
 ![](img/bg.png)
 

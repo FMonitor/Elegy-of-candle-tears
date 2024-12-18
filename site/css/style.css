@@ -4001,7 +4001,7 @@ hr {
 	min-width: 222px;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 300px) {
 	.rd-form .button {
 		display: block;
 		width: 100%;
@@ -16126,7 +16126,7 @@ html.rd-navbar-fixed-linked .page-header {
 	width: 64px;
 	height: 64px;
 	margin-top: 15px;
-	background-image: url("../images/isotope-loader.png");
+	/* background-image: url("../images/isotope-loader.png"); */
 	background-position: -1152px 0;
 	animation: 0.7s sprite-animation steps(18) infinite;
 	transition: .4s all ease;

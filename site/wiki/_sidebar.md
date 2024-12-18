@@ -1,30 +1,35 @@
 
-- Getting started
+- 加入游戏
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [快速开始](quickstart.md)
+  - [游戏背景](background.md)
+  - [玩家任务](target.md)
+  - [游戏机制](mechanic.md)
 
-- Customization
+- 角色图鉴
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-  - [Emoji](emoji.md)
+  - [商人](trader.md)
+  - [军官](officer.md)
+  - [赌徒](gambler.md)
+  - [祭司](priest.md)
+  - [杀手](assassin.md)
 
-- Guide
+- 场景介绍
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [山洞](cave.md)
+  - [农庄](farm.md)
+  - [霜地](frost.md)
+  - [青石巷](lane.md)
+  - [矿山](mine.md)
+  - [破船](ship.md)
+  - [瀑布](waterfall.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- 资源图鉴
+
+  - [金币](coin.md)
+  - [食物](food.md)
+  - [木材](wood.md)
+  - [石材](stone.md)
+  - [铁矿](iron.md)
+  - [银矿](silver.md)
+  - [黄金](gold.md)
